@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:  http://mariatogel.v8.js.cn/sitemap.xml
